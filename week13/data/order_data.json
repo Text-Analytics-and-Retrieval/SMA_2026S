@@ -1,0 +1,218 @@
+{
+  "23891": {
+    "status": "shipped",
+    "shippingStatus": "in_transit",
+    "estimatedDeliveryDate": "2026-05-05",
+    "note": "包裹已出貨，目前配送中，客戶反映尚未收到"
+  },
+  "88012": {
+    "status": "urgent",
+    "shippingStatus": "ready_to_ship",
+    "estimatedShipDate": "2026-05-04",
+    "note": "已標記急件，今日可出貨"
+  },
+  "59127": {
+    "status": "delivered",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-03",
+    "note": "商品已送達，客戶反映尺寸不合並申請換貨"
+  },
+  "70456": {
+    "status": "payment_check",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-06",
+    "note": "客戶表示已付款，但系統仍顯示未付款，需確認入帳狀態"
+  },
+  "31684": {
+    "status": "return_requested",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-02",
+    "note": "商品已送達，客戶反映外殼有刮痕並申請退貨退款"
+  },
+  "46720": {
+    "status": "processing",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-06",
+    "note": "訂單剛成立，客戶希望修改收件地址"
+  },
+  "12905": {
+    "status": "cancel_requested",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-06",
+    "note": "尚未出貨，客戶申請取消訂單並退款"
+  },
+  "65231": {
+    "status": "delivery_issue",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-04",
+    "note": "物流顯示已送達，但客戶與管理室皆未收到包裹"
+  },
+  "90542": {
+    "status": "completed",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-03",
+    "note": "訂單已完成，客戶索取電子發票資訊"
+  },
+  "38417": {
+    "status": "exchange_requested",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-03",
+    "note": "商品已送達，客戶反映顏色與網站照片差異較大"
+  },
+  "77109": {
+    "status": "shipped",
+    "shippingStatus": "in_transit_delayed",
+    "estimatedDeliveryDate": "2026-05-07",
+    "note": "物流狀態三天未更新，目前停留在轉運中心"
+  },
+  "54803": {
+    "status": "partial_delivered",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-04",
+    "note": "客戶反映應收三件商品但實際只收到兩件，需確認是否分批出貨或漏寄"
+  },
+  "21978": {
+    "status": "return_received",
+    "shippingStatus": "returned",
+    "estimatedRefundDate": "2026-05-09",
+    "note": "退貨商品已由倉庫簽收，退款處理中"
+  },
+  "60394": {
+    "status": "completed",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-02",
+    "note": "訂單已完成，客戶希望修改發票統編"
+  },
+  "73611": {
+    "status": "support_required",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-03",
+    "note": "商品已送達，客戶反映依照說明操作仍無法啟動"
+  },
+  "48126": {
+    "status": "wrong_item",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-03",
+    "note": "客戶訂購黑色款但收到白色款，需安排換貨"
+  },
+  "32780": {
+    "status": "processing",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-06",
+    "note": "訂單已成立兩天仍在備貨中，客戶希望週末前收到"
+  },
+  "85466": {
+    "status": "payment_issue",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-07",
+    "note": "客戶反映信用卡可能重複扣款，需確認付款紀錄"
+  },
+  "99821": {
+    "status": "preorder",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-12",
+    "note": "預購商品等待到貨，客戶詢問是否能於下週前收到"
+  },
+  "11237": {
+    "status": "exchange_requested",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-04",
+    "note": "商品已送達但有破損，客戶已拍照並申請換貨"
+  },
+  "63902": {
+    "status": "completed",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-03",
+    "note": "訂單已完成，客戶反映會員點數尚未入帳"
+  },
+  "24570": {
+    "status": "processing",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-06",
+    "note": "尚未出貨，客戶希望與訂單 24571 合併寄送"
+  },
+  "24571": {
+    "status": "processing",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-06",
+    "note": "尚未出貨，客戶希望與訂單 24570 合併寄送"
+  },
+  "57864": {
+    "status": "completed",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-04",
+    "note": "商品已送達，但包裹內缺少說明書"
+  },
+  "42019": {
+    "status": "processing",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-06",
+    "note": "客戶希望指定晚上或假日配送"
+  },
+  "76543": {
+    "status": "shipped",
+    "shippingStatus": "label_created",
+    "estimatedDeliveryDate": "2026-05-06",
+    "note": "物流單已建立，等待物流商取件；客戶反映客服回覆較慢"
+  },
+  "83429": {
+    "status": "completed",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-03",
+    "note": "商品已送達，客戶詢問保固期限與維修申請資料"
+  },
+  "19468": {
+    "status": "support_required",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-04",
+    "note": "客戶反映商品功能與網站描述不符，需確認版本或配件內容"
+  },
+  "90877": {
+    "status": "awaiting_payment",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-07",
+    "note": "原選擇 ATM 轉帳，客戶希望改為信用卡付款"
+  },
+  "35692": {
+    "status": "shipped",
+    "shippingStatus": "label_created",
+    "estimatedDeliveryDate": "2026-05-06",
+    "note": "已發送出貨通知，但客戶未收到物流單號"
+  },
+  "67218": {
+    "status": "awaiting_payment",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-07",
+    "note": "訂單等待付款中，客戶希望保留至明天下午"
+  },
+  "72104": {
+    "status": "delivered",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-04",
+    "note": "商品已送達，但客戶反映活動贈品未隨包裹附上"
+  },
+  "50633": {
+    "status": "return_inquiry",
+    "shippingStatus": "delivered",
+    "estimatedDeliveryDate": "2026-05-03",
+    "note": "客戶詢問退貨流程與退貨運費負擔方式"
+  },
+  "28940": {
+    "status": "processing",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-08",
+    "note": "訂單持續顯示處理中，需確認是否有庫存或出貨延遲"
+  },
+  "44658": {
+    "status": "refund_issue",
+    "shippingStatus": "returned",
+    "estimatedRefundDate": "2026-05-08",
+    "note": "退貨已完成，但客戶反映退款金額與原付款金額不符"
+  },
+  "51762": {
+    "status": "processing",
+    "shippingStatus": "not_shipped",
+    "estimatedShipDate": "2026-05-06",
+    "note": "客戶希望將宅配改為便利商店取貨"
+  }
+}
