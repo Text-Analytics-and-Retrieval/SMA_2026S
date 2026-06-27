@@ -136,7 +136,7 @@
     function fileHref(file) {
         const path = encodeURI(file.path || '');
         if ((file.type || '').toLowerCase() === 'ipynb') {
-            return `https://nbviewer.org/github/${repoBase}/blob/main/${path}`;
+            return `https://github.com/${repoBase}/blob/main/${path}`;
         }
         if (['pdf', 'doc', 'docx', 'ppt', 'pptx'].includes((file.type || '').toLowerCase())) {
             return `https://docs.google.com/viewer?url=https://github.com/${repoBase}/raw/main/${path}`;
