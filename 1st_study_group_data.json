@@ -20,26 +20,26 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G1/Analysis.ipynb",
-                "name": "Analysis.ipynb"
+                "path": "study_group/1st/G1/analysis.ipynb",
+                "name": "analysis.ipynb"
             },
             {
                 "label": "ipynb2",
                 "type": "ipynb",
-                "path": "study_group/1st/G1/Scrapying.ipynb",
-                "name": "Scrapying.ipynb"
+                "path": "study_group/1st/G1/scraping.ipynb",
+                "name": "scraping.ipynb"
             },
             {
                 "label": "ipynb3",
                 "type": "ipynb",
-                "path": "study_group/1st/G1/vader_model_focus_emotion_comparison.ipynb",
-                "name": "vader_model_focus_emotion_comparison.ipynb"
+                "path": "study_group/1st/G1/vader-model-focus-emotion-comparison.ipynb",
+                "name": "vader-model-focus-emotion-comparison.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G1/第一組-第一次讀書會專案.pdf",
-                "name": "第一組-第一次讀書會專案.pdf"
+                "path": "study_group/1st/G1/group1-first-study-project.pdf",
+                "name": "group1-first-study-project.pdf"
             }
         ]
     },
@@ -88,8 +88,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G3/Main.ipynb",
-                "name": "Main.ipynb"
+                "path": "study_group/1st/G3/main.ipynb",
+                "name": "main.ipynb"
             }
         ]
     },
@@ -113,14 +113,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G4/第四組_python程式碼.ipynb",
-                "name": "第四組_python程式碼.ipynb"
+                "path": "study_group/1st/G4/group4-python-code.ipynb",
+                "name": "group4-python-code.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G4/第四組_PPT.pdf",
-                "name": "第四組_PPT.pdf"
+                "path": "study_group/1st/G4/group4-ppt.pdf",
+                "name": "group4-ppt.pdf"
             }
         ]
     },
@@ -143,8 +143,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G5/社群媒體分析第一次專案報告_第五組.pdf",
-                "name": "社群媒體分析第一次專案報告_第五組.pdf"
+                "path": "study_group/1st/G5/social-media-analysis-first-project-report-group5.pdf",
+                "name": "social-media-analysis-first-project-report-group5.pdf"
             }
         ]
     },
@@ -167,8 +167,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G6/社群媒體分析_第六組_第一次讀書會專案(1).pdf",
-                "name": "社群媒體分析_第六組_第一次讀書會專案(1).pdf"
+                "path": "study_group/1st/G6/social-media-analysis-group6-first-study-project-1.pdf",
+                "name": "social-media-analysis-group6-first-study-project-1.pdf"
             }
         ]
     },
@@ -191,8 +191,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G7/普發一萬情緒分析.pdf",
-                "name": "普發一萬情緒分析.pdf"
+                "path": "study_group/1st/G7/universal-cash-payment-sentiment-analysis.pdf",
+                "name": "universal-cash-payment-sentiment-analysis.pdf"
             }
         ]
     },
@@ -215,8 +215,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G8/第八組.pdf",
-                "name": "第八組.pdf"
+                "path": "study_group/1st/G8/group8.pdf",
+                "name": "group8.pdf"
             }
         ]
     },
@@ -241,8 +241,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G9/Group_9_第一次讀書會.ipynb",
-                "name": "Group_9_第一次讀書會.ipynb"
+                "path": "study_group/1st/G9/group9-first-study.ipynb",
+                "name": "group9-first-study.ipynb"
             }
         ]
     },
@@ -261,14 +261,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G10/中山_社群媒體分析_讀書會第十組.ipynb",
-                "name": "中山_社群媒體分析_讀書會第十組.ipynb"
+                "path": "study_group/1st/G10/nsysu-social-media-analysis-study-group10.ipynb",
+                "name": "nsysu-social-media-analysis-study-group10.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G10/中山_社群媒體分析 讀書會第十組.pdf",
-                "name": "中山_社群媒體分析 讀書會第十組.pdf"
+                "path": "study_group/1st/G10/nsysu-social-media-analysis-study-group10.pdf",
+                "name": "nsysu-social-media-analysis-study-group10.pdf"
             }
         ]
     },
@@ -291,14 +291,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G11/1150326.ipynb",
-                "name": "1150326.ipynb"
+                "path": "study_group/1st/G11/group11-1150326.ipynb",
+                "name": "group11-1150326.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G11/社群媒體分析第十一組簡報_更新.pdf",
-                "name": "社群媒體分析第十一組簡報_更新.pdf"
+                "path": "study_group/1st/G11/social-media-analysis-group11-slides-updated.pdf",
+                "name": "social-media-analysis-group11-slides-updated.pdf"
             }
         ]
     },
@@ -320,8 +320,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G12/第12組_對 PTT 房屋版「新青安」相關文章進行情緒分析(1).ipynb",
-                "name": "第12組_對 PTT 房屋版「新青安」相關文章進行情緒分析(1).ipynb"
+                "path": "study_group/1st/G12/group12-ptt-home-loan-sentiment-analysis-1.ipynb",
+                "name": "group12-ptt-home-loan-sentiment-analysis-1.ipynb"
             }
         ]
     }

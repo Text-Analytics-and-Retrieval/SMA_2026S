@@ -20,8 +20,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G1/第一組_第二次讀書會專案.ipynb",
-                "name": "第一組_第二次讀書會專案.ipynb"
+                "path": "study_group/2nd/G1/group1-second-study-project.ipynb",
+                "name": "group1-second-study-project.ipynb"
             }
         ]
     },
@@ -70,8 +70,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G3/group3_project2.ipynb",
-                "name": "group3_project2.ipynb"
+                "path": "study_group/2nd/G3/group3-project2.ipynb",
+                "name": "group3-project2.ipynb"
             }
         ]
     },
@@ -95,8 +95,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G4/專案二_電影資訊分析_第四組.ipynb",
-                "name": "專案二_電影資訊分析_第四組.ipynb"
+                "path": "study_group/2nd/G4/project2-movie-info-analysis-group4.ipynb",
+                "name": "project2-movie-info-analysis-group4.ipynb"
             }
         ]
     },
@@ -119,8 +119,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G5/第五組_社群媒體分析第二次專案報告(1).pdf",
-                "name": "第五組_社群媒體分析第二次專案報告(1).pdf"
+                "path": "study_group/2nd/G5/group5-social-media-analysis-second-project-report-1.pdf",
+                "name": "group5-social-media-analysis-second-project-report-1.pdf"
             }
         ]
     },
@@ -143,8 +143,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G6/社群媒體分析_第六組_專案二.pdf",
-                "name": "社群媒體分析_第六組_專案二.pdf"
+                "path": "study_group/2nd/G6/social-media-analysis-group6-project2.pdf",
+                "name": "social-media-analysis-group6-project2.pdf"
             }
         ]
     },
@@ -167,8 +167,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G7/第七組社群媒體分析讀書會第二次報告.pdf",
-                "name": "第七組社群媒體分析讀書會第二次報告.pdf"
+                "path": "study_group/2nd/G7/group7-social-media-analysis-second-study-report.pdf",
+                "name": "group7-social-media-analysis-second-study-report.pdf"
             }
         ]
     },
@@ -191,8 +191,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G8/第八組第二次讀書會專案報告.pdf",
-                "name": "第八組第二次讀書會專案報告.pdf"
+                "path": "study_group/2nd/G8/group8-second-study-project-report.pdf",
+                "name": "group8-second-study-project-report.pdf"
             }
         ]
     },
@@ -217,8 +217,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G9/Group9_study_2.ipynb",
-                "name": "Group9_study_2.ipynb"
+                "path": "study_group/2nd/G9/group9-study-2.ipynb",
+                "name": "group9-study-2.ipynb"
             }
         ]
     },
@@ -237,8 +237,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G10/社媒第二次讀書會.ipynb",
-                "name": "社媒第二次讀書會.ipynb"
+                "path": "study_group/2nd/G10/social-media-second-study.ipynb",
+                "name": "social-media-second-study.ipynb"
             }
         ]
     },
@@ -261,14 +261,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G11/社群媒體分析_第二次讀書會_第11組0428.ipynb",
-                "name": "社群媒體分析_第二次讀書會_第11組0428.ipynb"
+                "path": "study_group/2nd/G11/social-media-analysis-second-study-group11-0428.ipynb",
+                "name": "social-media-analysis-second-study-group11-0428.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G11/社群媒體分析_第二次讀書會_第11組0428.pdf",
-                "name": "社群媒體分析_第二次讀書會_第11組0428.pdf"
+                "path": "study_group/2nd/G11/social-media-analysis-second-study-group11-0428.pdf",
+                "name": "social-media-analysis-second-study-group11-0428.pdf"
             }
         ]
     },
@@ -290,14 +290,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G12/第12組_新青安留言的房股板分類與主題模型.ipynb",
-                "name": "第12組_新青安留言的房股板分類與主題模型.ipynb"
+                "path": "study_group/2nd/G12/group12-new-home-loan-comments-topic-model.ipynb",
+                "name": "group12-new-home-loan-comments-topic-model.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G12/第二次讀書會報告.pdf",
-                "name": "第二次讀書會報告.pdf"
+                "path": "study_group/2nd/G12/second-study-report.pdf",
+                "name": "second-study-report.pdf"
             }
         ]
     }

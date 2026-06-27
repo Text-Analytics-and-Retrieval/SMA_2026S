@@ -35,20 +35,20 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G2/第二組_期末報告_文字版.pdf",
-                "name": "第二組_期末報告_文字版.pdf"
+                "path": "final_project/G2/group2-final-report-text.pdf",
+                "name": "group2-final-report-text.pdf"
             },
             {
                 "label": "pdf2",
                 "type": "pdf",
-                "path": "final_project/G2/第二組_期末報告_簡報版.pdf",
-                "name": "第二組_期末報告_簡報版.pdf"
+                "path": "final_project/G2/group2-final-report-slides.pdf",
+                "name": "group2-final-report-slides.pdf"
             },
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G2/第二組期末報告_對PTT 科技執法 相關文章進行文本分析.ipynb",
-                "name": "第二組期末報告_對PTT 科技執法 相關文章進行文本分析.ipynb"
+                "path": "final_project/G2/ptt-tech-enforcement-text-analysis.ipynb",
+                "name": "ptt-tech-enforcement-text-analysis.ipynb"
             }
         ]
     },
@@ -68,14 +68,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G3/第三組_法人交易資訊下的PTT討論熱點轉移.ipynb",
-                "name": "第三組_法人交易資訊下的PTT討論熱點轉移.ipynb"
+                "path": "final_project/G3/group3-legal-trading-ptt-topic-shift.ipynb",
+                "name": "group3-legal-trading-ptt-topic-shift.ipynb"
             },
             {
                 "label": "ipynb2",
                 "type": "ipynb",
-                "path": "final_project/G3/第三組_資料清理.ipynb",
-                "name": "第三組_資料清理.ipynb"
+                "path": "final_project/G3/group3-data-cleaning.ipynb",
+                "name": "group3-data-cleaning.ipynb"
             }
         ]
     },
@@ -95,14 +95,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G4/114_2_社群媒體分析_期末專案_第4組_台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡.ipynb",
-                "name": "114_2_社群媒體分析_期末專案_第4組_台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡.ipynb"
+                "path": "final_project/G4/tsmc-news-sentiment-stock-network.ipynb",
+                "name": "tsmc-news-sentiment-stock-network.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G4/114_2_社群媒體分析_期末專案_第4組_台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡.pdf",
-                "name": "114_2_社群媒體分析_期末專案_第4組_台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡.pdf"
+                "path": "final_project/G4/tsmc-news-sentiment-stock-network.pdf",
+                "name": "tsmc-news-sentiment-stock-network.pdf"
             }
         ]
     },
@@ -122,14 +122,14 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G5/(第五組)社群媒體分析期末報告-AI成熟後對於軟體工程師職涯的影響.pdf",
-                "name": "(第五組)社群媒體分析期末報告-AI成熟後對於軟體工程師職涯的影響.pdf"
+                "path": "final_project/G5/group5-ai-impact-software-engineer-career.pdf",
+                "name": "group5-ai-impact-software-engineer-career.pdf"
             },
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G5/ai_tool_finalteam5.ipynb",
-                "name": "ai_tool_finalteam5.ipynb"
+                "path": "final_project/G5/ai-tool-finalteam5.ipynb",
+                "name": "ai-tool-finalteam5.ipynb"
             }
         ]
     },
@@ -149,8 +149,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G6/SMA_Final_Group6.ipynb",
-                "name": "SMA_Final_Group6.ipynb"
+                "path": "final_project/G6/sma-final-group6.ipynb",
+                "name": "sma-final-group6.ipynb"
             }
         ]
     },
@@ -170,14 +170,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G7/PTT_Disabled_身心障礙版_期末專案.ipynb",
-                "name": "PTT_Disabled_身心障礙版_期末專案.ipynb"
+                "path": "final_project/G7/ptt-disabled-final-project.ipynb",
+                "name": "ptt-disabled-final-project.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G7/社群媒體期末專題報告-第七組.pdf",
-                "name": "社群媒體期末專題報告-第七組.pdf"
+                "path": "final_project/G7/social-media-final-project-report-group7.pdf",
+                "name": "social-media-final-project-report-group7.pdf"
             }
         ]
     },
@@ -197,8 +197,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G8/第八組.pdf",
-                "name": "第八組.pdf"
+                "path": "final_project/G8/group8.pdf",
+                "name": "group8.pdf"
             }
         ]
     },
@@ -218,8 +218,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G9/台美關稅 15_ 協議後，台灣民眾對半導體產業的輿情分析.pdf",
-                "name": "台美關稅 15_ 協議後，台灣民眾對半導體產業的輿情分析.pdf"
+                "path": "final_project/G9/taiwan-us-tariff-semiconductor-sentiment.pdf",
+                "name": "taiwan-us-tariff-semiconductor-sentiment.pdf"
             }
         ]
     },
@@ -239,14 +239,14 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G10/期末專案報告_第十組.pdf",
-                "name": "期末專案報告_第十組.pdf"
+                "path": "final_project/G10/final-project-report-group10.pdf",
+                "name": "final-project-report-group10.pdf"
             },
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G10/社群媒體分析期末專案_Python code.ipynb",
-                "name": "社群媒體分析期末專案_Python code.ipynb"
+                "path": "final_project/G10/social-media-analysis-final-project-python-code.ipynb",
+                "name": "social-media-analysis-final-project-python-code.ipynb"
             }
         ]
     },
@@ -265,8 +265,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G11/社媒期末專案_第11組.ipynb",
-                "name": "社媒期末專案_第11組.ipynb"
+                "path": "final_project/G11/social-media-final-project-group11.ipynb",
+                "name": "social-media-final-project-group11.ipynb"
             }
         ]
     },
@@ -286,8 +286,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G12/review_analysis_g12.ipynb",
-                "name": "review_analysis_g12.ipynb"
+                "path": "final_project/G12/review-analysis-g12.ipynb",
+                "name": "review-analysis-g12.ipynb"
             }
         ]
     },
@@ -306,8 +306,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G13/第十三組_ptt八卦版國旅輿論分析.ipynb",
-                "name": "第十三組_ptt八卦版國旅輿論分析.ipynb"
+                "path": "final_project/G13/group13-ptt-gossip-travel-sentiment.ipynb",
+                "name": "group13-ptt-gossip-travel-sentiment.ipynb"
             }
         ]
     },
@@ -325,8 +325,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G14/社群媒體期末專案Group 14.pdf",
-                "name": "社群媒體期末專案Group 14.pdf"
+                "path": "final_project/G14/social-media-final-project-group14.pdf",
+                "name": "social-media-final-project-group14.pdf"
             }
         ]
     },
@@ -344,8 +344,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G15/0623社群媒體分析期末專案報告_第十五組.pdf",
-                "name": "0623社群媒體分析期末專案報告_第十五組.pdf"
+                "path": "final_project/G15/0623-social-media-analysis-final-report-group15.pdf",
+                "name": "0623-social-media-analysis-final-report-group15.pdf"
             }
         ]
     },
@@ -363,8 +363,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G16/SMA_TSMC_g16.ipynb",
-                "name": "SMA_TSMC_g16.ipynb"
+                "path": "final_project/G16/sma-tsmc-g16.ipynb",
+                "name": "sma-tsmc-g16.ipynb"
             }
         ]
     },
@@ -384,8 +384,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G17/final_project_g17.ipynb",
-                "name": "final_project_g17.ipynb"
+                "path": "final_project/G17/final-project-g17.ipynb",
+                "name": "final-project-g17.ipynb"
             }
         ]
     },
@@ -405,20 +405,20 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G18/finalproject_group18(1).ipynb",
-                "name": "finalproject_group18(1).ipynb"
+                "path": "final_project/G18/final-project-group18-1.ipynb",
+                "name": "final-project-group18-1.ipynb"
             },
             {
                 "label": "ipynb2",
                 "type": "ipynb",
-                "path": "final_project/G18/finalproject_group18(2).ipynb",
-                "name": "finalproject_group18(2).ipynb"
+                "path": "final_project/G18/final-project-group18-2.ipynb",
+                "name": "final-project-group18-2.ipynb"
             },
             {
                 "label": "ipynb3",
                 "type": "ipynb",
-                "path": "final_project/G18/finalproject_group18(3).ipynb",
-                "name": "finalproject_group18(3).ipynb"
+                "path": "final_project/G18/final-project-group18-3.ipynb",
+                "name": "final-project-group18-3.ipynb"
             }
         ]
     },
@@ -438,8 +438,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G19/SMA_Final_19.ipynb",
-                "name": "SMA_Final_19.ipynb"
+                "path": "final_project/G19/sma-final-19.ipynb",
+                "name": "sma-final-19.ipynb"
             }
         ]
     },
@@ -459,8 +459,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G20/社群媒體期末專案第20組.pdf",
-                "name": "社群媒體期末專案第20組.pdf"
+                "path": "final_project/G20/social-media-final-project-group20.pdf",
+                "name": "social-media-final-project-group20.pdf"
             }
         ]
     },
@@ -478,14 +478,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G21/final_project_g21.ipynb",
-                "name": "final_project_g21.ipynb"
+                "path": "final_project/G21/final-project-g21.ipynb",
+                "name": "final-project-g21.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G21/葬送的芙莉蓮_情緒分析_組21.pptx.pdf",
-                "name": "葬送的芙莉蓮_情緒分析_組21.pptx.pdf"
+                "path": "final_project/G21/frieren-sentiment-analysis-group21.pdf",
+                "name": "frieren-sentiment-analysis-group21.pdf"
             }
         ]
     },
@@ -503,8 +503,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G22/社群媒體分析_期末報告_第22組.pdf",
-                "name": "社群媒體分析_期末報告_第22組.pdf"
+                "path": "final_project/G22/social-media-analysis-final-report-group22.pdf",
+                "name": "social-media-analysis-final-report-group22.pdf"
             }
         ]
     },
@@ -522,8 +522,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G23/社群媒體分析_期末報告_第23組(1).pdf",
-                "name": "社群媒體分析_期末報告_第23組(1).pdf"
+                "path": "final_project/G23/social-media-analysis-final-report-group23-1.pdf",
+                "name": "social-media-analysis-final-report-group23-1.pdf"
             }
         ]
     },
@@ -541,8 +541,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G24/ai_dev_tools_social_analysis.ipynb",
-                "name": "ai_dev_tools_social_analysis.ipynb"
+                "path": "final_project/G24/ai-dev-tools-social-analysis.ipynb",
+                "name": "ai-dev-tools-social-analysis.ipynb"
             }
         ]
     },
@@ -560,8 +560,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G25/第25組_期末報告 (1).ipynb",
-                "name": "第25組_期末報告 (1).ipynb"
+                "path": "final_project/G25/group25-final-report-1.ipynb",
+                "name": "group25-final-report-1.ipynb"
             }
         ]
     },
@@ -578,8 +578,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G26/N124320023_第26組_蕭瑜垚_期末報告_連鎖藥局保健品社群洞察.pdf",
-                "name": "N124320023_第26組_蕭瑜垚_期末報告_連鎖藥局保健品社群洞察.pdf"
+                "path": "final_project/G26/group26-chain-pharmacy-health-products-insights.pdf",
+                "name": "group26-chain-pharmacy-health-products-insights.pdf"
             }
         ]
     },
@@ -597,8 +597,8 @@
             {
                 "label": "txt",
                 "type": "txt",
-                "path": "final_project/G27/該組缺繳_成員如下.txt",
-                "name": "該組缺繳_成員如下.txt"
+                "path": "final_project/G27/missing-submission-members.txt",
+                "name": "missing-submission-members.txt"
             }
         ]
     }
