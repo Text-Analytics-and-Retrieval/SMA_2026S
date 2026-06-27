@@ -20,26 +20,26 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G1/analysis.ipynb",
-                "name": "analysis.ipynb"
+                "path": "study_group/1st/G1/study_group1.ipynb",
+                "name": "study_group1.ipynb"
             },
             {
                 "label": "ipynb2",
                 "type": "ipynb",
-                "path": "study_group/1st/G1/scraping.ipynb",
-                "name": "scraping.ipynb"
+                "path": "study_group/1st/G1/study_group1-2.ipynb",
+                "name": "study_group1-2.ipynb"
             },
             {
                 "label": "ipynb3",
                 "type": "ipynb",
-                "path": "study_group/1st/G1/vader-model-focus-emotion-comparison.ipynb",
-                "name": "vader-model-focus-emotion-comparison.ipynb"
+                "path": "study_group/1st/G1/study_group1-3.ipynb",
+                "name": "study_group1-3.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G1/group1-first-study-project.pdf",
-                "name": "group1-first-study-project.pdf"
+                "path": "study_group/1st/G1/study_group1.pdf",
+                "name": "study_group1.pdf"
             }
         ]
     },
@@ -63,8 +63,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G2/starlux-project1.ipynb",
-                "name": "starlux-project1.ipynb"
+                "path": "study_group/1st/G2/study_group2.ipynb",
+                "name": "study_group2.ipynb"
             }
         ]
     },
@@ -88,8 +88,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G3/main.ipynb",
-                "name": "main.ipynb"
+                "path": "study_group/1st/G3/study_group3.ipynb",
+                "name": "study_group3.ipynb"
             }
         ]
     },
@@ -113,14 +113,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G4/group4-python-code.ipynb",
-                "name": "group4-python-code.ipynb"
+                "path": "study_group/1st/G4/study_group4.ipynb",
+                "name": "study_group4.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G4/group4-ppt.pdf",
-                "name": "group4-ppt.pdf"
+                "path": "study_group/1st/G4/study_group4.pdf",
+                "name": "study_group4.pdf"
             }
         ]
     },
@@ -143,8 +143,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G5/social-media-analysis-first-project-report-group5.pdf",
-                "name": "social-media-analysis-first-project-report-group5.pdf"
+                "path": "study_group/1st/G5/study_group5.pdf",
+                "name": "study_group5.pdf"
             }
         ]
     },
@@ -167,8 +167,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G6/social-media-analysis-group6-first-study-project-1.pdf",
-                "name": "social-media-analysis-group6-first-study-project-1.pdf"
+                "path": "study_group/1st/G6/study_group6.pdf",
+                "name": "study_group6.pdf"
             }
         ]
     },
@@ -191,8 +191,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G7/universal-cash-payment-sentiment-analysis.pdf",
-                "name": "universal-cash-payment-sentiment-analysis.pdf"
+                "path": "study_group/1st/G7/study_group7.pdf",
+                "name": "study_group7.pdf"
             }
         ]
     },
@@ -215,8 +215,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G8/group8.pdf",
-                "name": "group8.pdf"
+                "path": "study_group/1st/G8/study_group8.pdf",
+                "name": "study_group8.pdf"
             }
         ]
     },
@@ -241,8 +241,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G9/group9-first-study.ipynb",
-                "name": "group9-first-study.ipynb"
+                "path": "study_group/1st/G9/study_group9.ipynb",
+                "name": "study_group9.ipynb"
             }
         ]
     },
@@ -261,14 +261,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G10/nsysu-social-media-analysis-study-group10.ipynb",
-                "name": "nsysu-social-media-analysis-study-group10.ipynb"
+                "path": "study_group/1st/G10/study_group10.ipynb",
+                "name": "study_group10.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G10/nsysu-social-media-analysis-study-group10.pdf",
-                "name": "nsysu-social-media-analysis-study-group10.pdf"
+                "path": "study_group/1st/G10/study_group10.pdf",
+                "name": "study_group10.pdf"
             }
         ]
     },
@@ -291,14 +291,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G11/group11-1150326.ipynb",
-                "name": "group11-1150326.ipynb"
+                "path": "study_group/1st/G11/study_group11.ipynb",
+                "name": "study_group11.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/1st/G11/social-media-analysis-group11-slides-updated.pdf",
-                "name": "social-media-analysis-group11-slides-updated.pdf"
+                "path": "study_group/1st/G11/study_group11.pdf",
+                "name": "study_group11.pdf"
             }
         ]
     },
@@ -320,8 +320,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/1st/G12/group12-ptt-home-loan-sentiment-analysis-1.ipynb",
-                "name": "group12-ptt-home-loan-sentiment-analysis-1.ipynb"
+                "path": "study_group/1st/G12/study_group12.ipynb",
+                "name": "study_group12.ipynb"
             }
         ]
     }

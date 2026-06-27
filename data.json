@@ -14,8 +14,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G1/g1.ipynb",
-                "name": "g1.ipynb"
+                "path": "final_project/G1/final_project1.ipynb",
+                "name": "final_project1.ipynb"
             }
         ]
     },
@@ -35,20 +35,20 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G2/group2-final-report-text.pdf",
-                "name": "group2-final-report-text.pdf"
+                "path": "final_project/G2/final_project2.pdf",
+                "name": "final_project2.pdf"
             },
             {
                 "label": "pdf2",
                 "type": "pdf",
-                "path": "final_project/G2/group2-final-report-slides.pdf",
-                "name": "group2-final-report-slides.pdf"
+                "path": "final_project/G2/final_project2-2.pdf",
+                "name": "final_project2-2.pdf"
             },
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G2/ptt-tech-enforcement-text-analysis.ipynb",
-                "name": "ptt-tech-enforcement-text-analysis.ipynb"
+                "path": "final_project/G2/final_project2.ipynb",
+                "name": "final_project2.ipynb"
             }
         ]
     },
@@ -68,14 +68,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G3/group3-legal-trading-ptt-topic-shift.ipynb",
-                "name": "group3-legal-trading-ptt-topic-shift.ipynb"
+                "path": "final_project/G3/final_project3.ipynb",
+                "name": "final_project3.ipynb"
             },
             {
                 "label": "ipynb2",
                 "type": "ipynb",
-                "path": "final_project/G3/group3-data-cleaning.ipynb",
-                "name": "group3-data-cleaning.ipynb"
+                "path": "final_project/G3/final_project3-2.ipynb",
+                "name": "final_project3-2.ipynb"
             }
         ]
     },
@@ -95,14 +95,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G4/tsmc-news-sentiment-stock-network.ipynb",
-                "name": "tsmc-news-sentiment-stock-network.ipynb"
+                "path": "final_project/G4/final_project4.ipynb",
+                "name": "final_project4.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G4/tsmc-news-sentiment-stock-network.pdf",
-                "name": "tsmc-news-sentiment-stock-network.pdf"
+                "path": "final_project/G4/final_project4.pdf",
+                "name": "final_project4.pdf"
             }
         ]
     },
@@ -122,14 +122,14 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G5/group5-ai-impact-software-engineer-career.pdf",
-                "name": "group5-ai-impact-software-engineer-career.pdf"
+                "path": "final_project/G5/final_project5.pdf",
+                "name": "final_project5.pdf"
             },
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G5/ai-tool-finalteam5.ipynb",
-                "name": "ai-tool-finalteam5.ipynb"
+                "path": "final_project/G5/final_project5.ipynb",
+                "name": "final_project5.ipynb"
             }
         ]
     },
@@ -149,8 +149,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G6/sma-final-group6.ipynb",
-                "name": "sma-final-group6.ipynb"
+                "path": "final_project/G6/final_project6.ipynb",
+                "name": "final_project6.ipynb"
             }
         ]
     },
@@ -170,14 +170,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G7/ptt-disabled-final-project.ipynb",
-                "name": "ptt-disabled-final-project.ipynb"
+                "path": "final_project/G7/final_project7.ipynb",
+                "name": "final_project7.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G7/social-media-final-project-report-group7.pdf",
-                "name": "social-media-final-project-report-group7.pdf"
+                "path": "final_project/G7/final_project7.pdf",
+                "name": "final_project7.pdf"
             }
         ]
     },
@@ -197,8 +197,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G8/group8.pdf",
-                "name": "group8.pdf"
+                "path": "final_project/G8/final_project8.pdf",
+                "name": "final_project8.pdf"
             }
         ]
     },
@@ -218,8 +218,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G9/taiwan-us-tariff-semiconductor-sentiment.pdf",
-                "name": "taiwan-us-tariff-semiconductor-sentiment.pdf"
+                "path": "final_project/G9/final_project9.pdf",
+                "name": "final_project9.pdf"
             }
         ]
     },
@@ -239,14 +239,14 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G10/final-project-report-group10.pdf",
-                "name": "final-project-report-group10.pdf"
+                "path": "final_project/G10/final_project10.pdf",
+                "name": "final_project10.pdf"
             },
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G10/social-media-analysis-final-project-python-code.ipynb",
-                "name": "social-media-analysis-final-project-python-code.ipynb"
+                "path": "final_project/G10/final_project10.ipynb",
+                "name": "final_project10.ipynb"
             }
         ]
     },
@@ -265,8 +265,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G11/social-media-final-project-group11.ipynb",
-                "name": "social-media-final-project-group11.ipynb"
+                "path": "final_project/G11/final_project11.ipynb",
+                "name": "final_project11.ipynb"
             }
         ]
     },
@@ -286,8 +286,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G12/review-analysis-g12.ipynb",
-                "name": "review-analysis-g12.ipynb"
+                "path": "final_project/G12/final_project12.ipynb",
+                "name": "final_project12.ipynb"
             }
         ]
     },
@@ -306,8 +306,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G13/group13-ptt-gossip-travel-sentiment.ipynb",
-                "name": "group13-ptt-gossip-travel-sentiment.ipynb"
+                "path": "final_project/G13/final_project13.ipynb",
+                "name": "final_project13.ipynb"
             }
         ]
     },
@@ -325,8 +325,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G14/social-media-final-project-group14.pdf",
-                "name": "social-media-final-project-group14.pdf"
+                "path": "final_project/G14/final_project14.pdf",
+                "name": "final_project14.pdf"
             }
         ]
     },
@@ -344,8 +344,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G15/0623-social-media-analysis-final-report-group15.pdf",
-                "name": "0623-social-media-analysis-final-report-group15.pdf"
+                "path": "final_project/G15/final_project15.pdf",
+                "name": "final_project15.pdf"
             }
         ]
     },
@@ -363,8 +363,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G16/sma-tsmc-g16.ipynb",
-                "name": "sma-tsmc-g16.ipynb"
+                "path": "final_project/G16/final_project16.ipynb",
+                "name": "final_project16.ipynb"
             }
         ]
     },
@@ -384,8 +384,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G17/final-project-g17.ipynb",
-                "name": "final-project-g17.ipynb"
+                "path": "final_project/G17/final_project17.ipynb",
+                "name": "final_project17.ipynb"
             }
         ]
     },
@@ -405,20 +405,20 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G18/final-project-group18-1.ipynb",
-                "name": "final-project-group18-1.ipynb"
+                "path": "final_project/G18/final_project18.ipynb",
+                "name": "final_project18.ipynb"
             },
             {
                 "label": "ipynb2",
                 "type": "ipynb",
-                "path": "final_project/G18/final-project-group18-2.ipynb",
-                "name": "final-project-group18-2.ipynb"
+                "path": "final_project/G18/final_project18-2.ipynb",
+                "name": "final_project18-2.ipynb"
             },
             {
                 "label": "ipynb3",
                 "type": "ipynb",
-                "path": "final_project/G18/final-project-group18-3.ipynb",
-                "name": "final-project-group18-3.ipynb"
+                "path": "final_project/G18/final_project18-3.ipynb",
+                "name": "final_project18-3.ipynb"
             }
         ]
     },
@@ -438,8 +438,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G19/sma-final-19.ipynb",
-                "name": "sma-final-19.ipynb"
+                "path": "final_project/G19/final_project19.ipynb",
+                "name": "final_project19.ipynb"
             }
         ]
     },
@@ -459,8 +459,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G20/social-media-final-project-group20.pdf",
-                "name": "social-media-final-project-group20.pdf"
+                "path": "final_project/G20/final_project20.pdf",
+                "name": "final_project20.pdf"
             }
         ]
     },
@@ -478,14 +478,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G21/final-project-g21.ipynb",
-                "name": "final-project-g21.ipynb"
+                "path": "final_project/G21/final_project21.ipynb",
+                "name": "final_project21.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G21/frieren-sentiment-analysis-group21.pdf",
-                "name": "frieren-sentiment-analysis-group21.pdf"
+                "path": "final_project/G21/final_project21.pdf",
+                "name": "final_project21.pdf"
             }
         ]
     },
@@ -503,8 +503,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G22/social-media-analysis-final-report-group22.pdf",
-                "name": "social-media-analysis-final-report-group22.pdf"
+                "path": "final_project/G22/final_project22.pdf",
+                "name": "final_project22.pdf"
             }
         ]
     },
@@ -522,8 +522,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G23/social-media-analysis-final-report-group23-1.pdf",
-                "name": "social-media-analysis-final-report-group23-1.pdf"
+                "path": "final_project/G23/final_project23.pdf",
+                "name": "final_project23.pdf"
             }
         ]
     },
@@ -541,8 +541,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G24/ai-dev-tools-social-analysis.ipynb",
-                "name": "ai-dev-tools-social-analysis.ipynb"
+                "path": "final_project/G24/final_project24.ipynb",
+                "name": "final_project24.ipynb"
             }
         ]
     },
@@ -560,8 +560,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "final_project/G25/group25-final-report-1.ipynb",
-                "name": "group25-final-report-1.ipynb"
+                "path": "final_project/G25/final_project25.ipynb",
+                "name": "final_project25.ipynb"
             }
         ]
     },
@@ -578,8 +578,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "final_project/G26/group26-chain-pharmacy-health-products-insights.pdf",
-                "name": "group26-chain-pharmacy-health-products-insights.pdf"
+                "path": "final_project/G26/final_project26.pdf",
+                "name": "final_project26.pdf"
             }
         ]
     },
@@ -597,8 +597,8 @@
             {
                 "label": "txt",
                 "type": "txt",
-                "path": "final_project/G27/missing-submission-members.txt",
-                "name": "missing-submission-members.txt"
+                "path": "final_project/G27/final_project27.txt",
+                "name": "final_project27.txt"
             }
         ]
     }

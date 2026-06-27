@@ -20,8 +20,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/3rd/G1/group1-study-project3.ipynb",
-                "name": "group1-study-project3.ipynb"
+                "path": "study_group/3rd/G1/study_group1.ipynb",
+                "name": "study_group1.ipynb"
             }
         ]
     },
@@ -45,14 +45,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/3rd/G2/final3.ipynb",
-                "name": "final3.ipynb"
+                "path": "study_group/3rd/G2/study_group2.ipynb",
+                "name": "study_group2.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/3rd/G2/sma-project3.pdf",
-                "name": "sma-project3.pdf"
+                "path": "study_group/3rd/G2/study_group2.pdf",
+                "name": "study_group2.pdf"
             }
         ]
     },
@@ -76,8 +76,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/3rd/G3/project3-1.ipynb",
-                "name": "project3-1.ipynb"
+                "path": "study_group/3rd/G3/study_group3.ipynb",
+                "name": "study_group3.ipynb"
             }
         ]
     },
@@ -101,14 +101,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/3rd/G4/group4-project3.ipynb",
-                "name": "group4-project3.ipynb"
+                "path": "study_group/3rd/G4/study_group4.ipynb",
+                "name": "study_group4.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/3rd/G4/group4-project3.pdf",
-                "name": "group4-project3.pdf"
+                "path": "study_group/3rd/G4/study_group4.pdf",
+                "name": "study_group4.pdf"
             }
         ]
     },
@@ -131,8 +131,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/3rd/G5/518-social-media-analysis-third-project-report.pdf",
-                "name": "518-social-media-analysis-third-project-report.pdf"
+                "path": "study_group/3rd/G5/study_group5.pdf",
+                "name": "study_group5.pdf"
             }
         ]
     },
@@ -155,8 +155,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/3rd/G6/project3-group6-1.pdf",
-                "name": "project3-group6-1.pdf"
+                "path": "study_group/3rd/G6/study_group6.pdf",
+                "name": "study_group6.pdf"
             }
         ]
     },
@@ -179,8 +179,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/3rd/G7/social-media-analysis-project3-g7.pdf",
-                "name": "social-media-analysis-project3-g7.pdf"
+                "path": "study_group/3rd/G7/study_group7.pdf",
+                "name": "study_group7.pdf"
             }
         ]
     },
@@ -203,8 +203,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/3rd/G8/group8-third-study-project-report.pdf",
-                "name": "group8-third-study-project-report.pdf"
+                "path": "study_group/3rd/G8/study_group8.pdf",
+                "name": "study_group8.pdf"
             }
         ]
     },
@@ -229,8 +229,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/3rd/G9/group9-study-3-1.ipynb",
-                "name": "group9-study-3-1.ipynb"
+                "path": "study_group/3rd/G9/study_group9.ipynb",
+                "name": "study_group9.ipynb"
             }
         ]
     },
@@ -249,8 +249,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/3rd/G10/group10-social-media-third-study.ipynb",
-                "name": "group10-social-media-third-study.ipynb"
+                "path": "study_group/3rd/G10/study_group10.ipynb",
+                "name": "study_group10.ipynb"
             }
         ]
     },
@@ -273,26 +273,26 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/3rd/G11/group11-third-study-sentence-embedding.ipynb",
-                "name": "group11-third-study-sentence-embedding.ipynb"
+                "path": "study_group/3rd/G11/study_group11.ipynb",
+                "name": "study_group11.ipynb"
             },
             {
                 "label": "ipynb2",
                 "type": "ipynb",
-                "path": "study_group/3rd/G11/group11-third-study-word2vec.ipynb",
-                "name": "group11-third-study-word2vec.ipynb"
+                "path": "study_group/3rd/G11/study_group11-2.ipynb",
+                "name": "study_group11-2.ipynb"
             },
             {
                 "label": "ipynb3",
                 "type": "ipynb",
-                "path": "study_group/3rd/G11/group11-third-study-bert.ipynb",
-                "name": "group11-third-study-bert.ipynb"
+                "path": "study_group/3rd/G11/study_group11-3.ipynb",
+                "name": "study_group11-3.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/3rd/G11/social-media-analysis-third-study-group11.pdf",
-                "name": "social-media-analysis-third-study-group11.pdf"
+                "path": "study_group/3rd/G11/study_group11.pdf",
+                "name": "study_group11.pdf"
             }
         ]
     },
@@ -314,8 +314,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/3rd/G12/text-mining-group12-1.ipynb",
-                "name": "text-mining-group12-1.ipynb"
+                "path": "study_group/3rd/G12/study_group12.ipynb",
+                "name": "study_group12.ipynb"
             }
         ]
     }

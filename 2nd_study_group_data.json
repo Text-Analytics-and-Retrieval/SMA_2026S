@@ -20,8 +20,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G1/group1-second-study-project.ipynb",
-                "name": "group1-second-study-project.ipynb"
+                "path": "study_group/2nd/G1/study_group1.ipynb",
+                "name": "study_group1.ipynb"
             }
         ]
     },
@@ -45,8 +45,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G2/sma-group2-project2.ipynb",
-                "name": "sma-group2-project2.ipynb"
+                "path": "study_group/2nd/G2/study_group2.ipynb",
+                "name": "study_group2.ipynb"
             }
         ]
     },
@@ -70,8 +70,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G3/group3-project2.ipynb",
-                "name": "group3-project2.ipynb"
+                "path": "study_group/2nd/G3/study_group3.ipynb",
+                "name": "study_group3.ipynb"
             }
         ]
     },
@@ -95,8 +95,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G4/project2-movie-info-analysis-group4.ipynb",
-                "name": "project2-movie-info-analysis-group4.ipynb"
+                "path": "study_group/2nd/G4/study_group4.ipynb",
+                "name": "study_group4.ipynb"
             }
         ]
     },
@@ -119,8 +119,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G5/group5-social-media-analysis-second-project-report-1.pdf",
-                "name": "group5-social-media-analysis-second-project-report-1.pdf"
+                "path": "study_group/2nd/G5/study_group5.pdf",
+                "name": "study_group5.pdf"
             }
         ]
     },
@@ -143,8 +143,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G6/social-media-analysis-group6-project2.pdf",
-                "name": "social-media-analysis-group6-project2.pdf"
+                "path": "study_group/2nd/G6/study_group6.pdf",
+                "name": "study_group6.pdf"
             }
         ]
     },
@@ -167,8 +167,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G7/group7-social-media-analysis-second-study-report.pdf",
-                "name": "group7-social-media-analysis-second-study-report.pdf"
+                "path": "study_group/2nd/G7/study_group7.pdf",
+                "name": "study_group7.pdf"
             }
         ]
     },
@@ -191,8 +191,8 @@
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G8/group8-second-study-project-report.pdf",
-                "name": "group8-second-study-project-report.pdf"
+                "path": "study_group/2nd/G8/study_group8.pdf",
+                "name": "study_group8.pdf"
             }
         ]
     },
@@ -217,8 +217,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G9/group9-study-2.ipynb",
-                "name": "group9-study-2.ipynb"
+                "path": "study_group/2nd/G9/study_group9.ipynb",
+                "name": "study_group9.ipynb"
             }
         ]
     },
@@ -237,8 +237,8 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G10/social-media-second-study.ipynb",
-                "name": "social-media-second-study.ipynb"
+                "path": "study_group/2nd/G10/study_group10.ipynb",
+                "name": "study_group10.ipynb"
             }
         ]
     },
@@ -261,14 +261,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G11/social-media-analysis-second-study-group11-0428.ipynb",
-                "name": "social-media-analysis-second-study-group11-0428.ipynb"
+                "path": "study_group/2nd/G11/study_group11.ipynb",
+                "name": "study_group11.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G11/social-media-analysis-second-study-group11-0428.pdf",
-                "name": "social-media-analysis-second-study-group11-0428.pdf"
+                "path": "study_group/2nd/G11/study_group11.pdf",
+                "name": "study_group11.pdf"
             }
         ]
     },
@@ -290,14 +290,14 @@
             {
                 "label": "ipynb",
                 "type": "ipynb",
-                "path": "study_group/2nd/G12/group12-new-home-loan-comments-topic-model.ipynb",
-                "name": "group12-new-home-loan-comments-topic-model.ipynb"
+                "path": "study_group/2nd/G12/study_group12.ipynb",
+                "name": "study_group12.ipynb"
             },
             {
                 "label": "pdf",
                 "type": "pdf",
-                "path": "study_group/2nd/G12/second-study-report.pdf",
-                "name": "second-study-report.pdf"
+                "path": "study_group/2nd/G12/study_group12.pdf",
+                "name": "study_group12.pdf"
             }
         ]
     }
