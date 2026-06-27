@@ -1,0 +1,605 @@
+[
+    {
+        "group": 1,
+        "group_name": "第一組",
+        "dir": "final_project/G1",
+        "topic_name": "PTT 房屋版中房價、買房與政策討論之社群媒體分析",
+        "members": [
+            "N134320016 盧柔樺",
+            "N134020003 楊凱傑",
+            "N134020006 陳信宏"
+        ],
+        "video_url": "https://youtu.be/KN0MqqRwhbQ",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G1/g1.ipynb",
+                "name": "g1.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 2,
+        "group_name": "第二組",
+        "dir": "final_project/G2",
+        "topic_name": "對 PTT「科技執法」相關文章進行文本分析",
+        "members": [
+            "N134020005 陳彥廷",
+            "N134320010 陳葳",
+            "N134320013 鍾宛樺",
+            "N134320022 翁瑞琳"
+        ],
+        "video_url": "https://youtu.be/Gkbn4hE1ULk?si=-CWvpKonBZVy86nM",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G2/第二組_期末報告_文字版.pdf",
+                "name": "第二組_期末報告_文字版.pdf"
+            },
+            {
+                "label": "pdf2",
+                "type": "pdf",
+                "path": "final_project/G2/第二組_期末報告_簡報版.pdf",
+                "name": "第二組_期末報告_簡報版.pdf"
+            },
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G2/第二組期末報告_對PTT 科技執法 相關文章進行文本分析.ipynb",
+                "name": "第二組期末報告_對PTT 科技執法 相關文章進行文本分析.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 3,
+        "group_name": "第三組",
+        "dir": "final_project/G3",
+        "topic_name": "法人交易資訊下的 PTT 討論熱點轉移——個股、ETF 與投資主題的共現分析",
+        "members": [
+            "N124320015 林佩蓉",
+            "N134020008 林姝婷",
+            "N134320024 林曉君",
+            "N134320032 黃瀞儀"
+        ],
+        "video_url": "https://www.youtube.com/watch?v=f4Vz-pdQP2Q",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G3/第三組_法人交易資訊下的PTT討論熱點轉移.ipynb",
+                "name": "第三組_法人交易資訊下的PTT討論熱點轉移.ipynb"
+            },
+            {
+                "label": "ipynb2",
+                "type": "ipynb",
+                "path": "final_project/G3/第三組_資料清理.ipynb",
+                "name": "第三組_資料清理.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 4,
+        "group_name": "第四組",
+        "dir": "final_project/G4",
+        "topic_name": "台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡",
+        "members": [
+            "N134320001 史卯郁",
+            "N134320008 郭羽庭",
+            "N134020009 黎書宏",
+            "N134320029 周書緯"
+        ],
+        "video_url": "https://youtu.be/ClUEVGV5w3E?si=RToZBT5I1iBDcy0D",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G4/114_2_社群媒體分析_期末專案_第4組_台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡.ipynb",
+                "name": "114_2_社群媒體分析_期末專案_第4組_台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡.ipynb"
+            },
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G4/114_2_社群媒體分析_期末專案_第4組_台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡.pdf",
+                "name": "114_2_社群媒體分析_期末專案_第4組_台積電新聞情緒、新聞熱度與股價變動之關聯分析：結合文字探勘與關鍵字共現網絡.pdf"
+            }
+        ]
+    },
+    {
+        "group": 5,
+        "group_name": "第五組",
+        "dir": "final_project/G5",
+        "topic_name": "AI 成熟後對於軟體工程師職涯的影響",
+        "members": [
+            "B126060003 吳瑋芯",
+            "N134320019 黃彥博",
+            "N134320021 謝孟庭",
+            "N134320003 顏暖真"
+        ],
+        "video_url": "https://www.youtube.com/watch?v=pnLHlE9IAVE",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G5/(第五組)社群媒體分析期末報告-AI成熟後對於軟體工程師職涯的影響.pdf",
+                "name": "(第五組)社群媒體分析期末報告-AI成熟後對於軟體工程師職涯的影響.pdf"
+            },
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G5/ai_tool_finalteam5.ipynb",
+                "name": "ai_tool_finalteam5.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 6,
+        "group_name": "第六組",
+        "dir": "final_project/G6",
+        "topic_name": "台積電",
+        "members": [
+            "M144020014 周有星",
+            "M144020016 簡以欣",
+            "M144020017 陳姿佑",
+            "M144020047 程善妮"
+        ],
+        "video_url": "https://www.youtube.com/watch?v=1dBTq9YEFOk&feature=youtu.be",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G6/SMA_Final_Group6.ipynb",
+                "name": "SMA_Final_Group6.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 7,
+        "group_name": "第七組",
+        "dir": "final_project/G7",
+        "topic_name": "從求助到資源缺口:PTT 身心障礙版五年需求、政府統計對照與互助網絡分析",
+        "members": [
+            "N134320005 張智絢",
+            "N134320020 葉倩妏",
+            "N134320025 劉芝芸",
+            "N134320027 邱展業"
+        ],
+        "video_url": "https://youtu.be/1dwgLJUU6F8?si=G7h4VZOjzk6qwnIz",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G7/PTT_Disabled_身心障礙版_期末專案.ipynb",
+                "name": "PTT_Disabled_身心障礙版_期末專案.ipynb"
+            },
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G7/社群媒體期末專題報告-第七組.pdf",
+                "name": "社群媒體期末專題報告-第七組.pdf"
+            }
+        ]
+    },
+    {
+        "group": 8,
+        "group_name": "第八組",
+        "dir": "final_project/G8",
+        "topic_name": "經貿施壓下的汽車稅制論辯：結合文字探勘與社會網絡分析之 PTT 輿情研究",
+        "members": [
+            "N124320002 林永森",
+            "N134020001 李宗穎",
+            "N134320014 黃致崴",
+            "N134320026 黃足寧"
+        ],
+        "video_url": "https://youtu.be/ajx2kHF0FJs?si=adVUWUdSmj3LtkOS",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G8/第八組.pdf",
+                "name": "第八組.pdf"
+            }
+        ]
+    },
+    {
+        "group": 9,
+        "group_name": "第九組",
+        "dir": "final_project/G9",
+        "topic_name": "台美關稅 15% 協議後，台灣民眾對半導體產業的輿情分析",
+        "members": [
+            "N124320003 馬永恩",
+            "M134111038 吳悠綺",
+            "N134320011 劉宗泰",
+            "N134320031 劉彥伯"
+        ],
+        "video_url": "https://www.youtube.com/watch?v=Z2BmogPRojI",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G9/台美關稅 15_ 協議後，台灣民眾對半導體產業的輿情分析.pdf",
+                "name": "台美關稅 15_ 協議後，台灣民眾對半導體產業的輿情分析.pdf"
+            }
+        ]
+    },
+    {
+        "group": 10,
+        "group_name": "第十組",
+        "dir": "final_project/G10",
+        "topic_name": "PTT Tech_Job 版 AI 討論主題分析與情緒探勘",
+        "members": [
+            "N134020002 陳昱璇",
+            "N134320018 許季盈",
+            "N134320023 黃可欣",
+            "N134020007 林妤綺"
+        ],
+        "video_url": "https://youtu.be/2AjKDD0sVfY?si=sMWnsUojtxvYtH-G",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G10/期末專案報告_第十組.pdf",
+                "name": "期末專案報告_第十組.pdf"
+            },
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G10/社群媒體分析期末專案_Python code.ipynb",
+                "name": "社群媒體分析期末專案_Python code.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 11,
+        "group_name": "第十一組",
+        "dir": "final_project/G11",
+        "topic_name": "米津玄師《IRIS OUT》YouTube 留言之 NLP 分析",
+        "members": [
+            "M144020019 顏志豪",
+            "M144020008 洪宏林",
+            "M144020071 蔡佳靜"
+        ],
+        "video_url": "https://youtu.be/y-ivwDnbyDk?si=3bW2J1FkIPSGHRv-",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G11/社媒期末專案_第11組.ipynb",
+                "name": "社媒期末專案_第11組.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 12,
+        "group_name": "第十二組",
+        "dir": "final_project/G12",
+        "topic_name": "食譜評論英文文字分析",
+        "members": [
+            "M144020028 白茗仁",
+            "M144020036 陳柏勳",
+            "M144020065 藍立衡",
+            "M144020066 龍健銘"
+        ],
+        "video_url": "https://youtu.be/EhOJEhjqdNY?si=LTAukVRg6Hb3p4sq",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G12/review_analysis_g12.ipynb",
+                "name": "review_analysis_g12.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 13,
+        "group_name": "第十三組",
+        "dir": "final_project/G13",
+        "topic_name": "PTT 八卦版國旅輿論分析",
+        "members": [
+            "M144020068 陳啓恩",
+            "M144020030 賴昱霖",
+            "M144020053 滕冠廷"
+        ],
+        "video_url": "https://www.youtube.com/watch?v=qxITujHOhLQ",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G13/第十三組_ptt八卦版國旅輿論分析.ipynb",
+                "name": "第十三組_ptt八卦版國旅輿論分析.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 14,
+        "group_name": "第十四組",
+        "dir": "final_project/G14",
+        "topic_name": "PPT求職社群對PM職務的討論與分析",
+        "members": [
+            "M134610025 謝青杉",
+            "M144610010 楊予彤"
+        ],
+        "video_url": "https://youtu.be/6HmKQUrt0o8",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G14/社群媒體期末專案Group 14.pdf",
+                "name": "社群媒體期末專案Group 14.pdf"
+            }
+        ]
+    },
+    {
+        "group": 15,
+        "group_name": "第十五組",
+        "dir": "final_project/G15",
+        "topic_name": "哈日的台灣人：日本旅遊形象分析",
+        "members": [
+            "M134111072 朱詠綺",
+            "M136090006 朱益民"
+        ],
+        "video_url": "https://www.canva.com/design/DAHM7YtfB-k/1B7zjzM5KWQbkcDuaVK8zQ/view?utm_content=DAHM7YtfB-k&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h01c8e0d26c",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G15/0623社群媒體分析期末專案報告_第十五組.pdf",
+                "name": "0623社群媒體分析期末專案報告_第十五組.pdf"
+            }
+        ]
+    },
+    {
+        "group": 16,
+        "group_name": "第十六組",
+        "dir": "final_project/G16",
+        "topic_name": "TSMC 輿情分析",
+        "members": [
+            "M144020002 吳俊廷",
+            "B124020008 李怡君"
+        ],
+        "video_url": "https://www.youtube.com/watch?v=lbXw9jZTwuc",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G16/SMA_TSMC_g16.ipynb",
+                "name": "SMA_TSMC_g16.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 17,
+        "group_name": "第十七組",
+        "dir": "final_project/G17",
+        "topic_name": "以 PTT 數據挖掘日韓旅遊差異與滿意度對比",
+        "members": [
+            "M134020047 廖經恒",
+            "M144020004 黃于庭",
+            "M144020020 林芷庭",
+            "M144020021 劉淨涵"
+        ],
+        "video_url": "https://youtu.be/Cfc0zdET2bE?si=EkEbnFbDdvXsSlXd",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G17/final_project_g17.ipynb",
+                "name": "final_project_g17.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 18,
+        "group_name": "第十八組",
+        "dir": "final_project/G18",
+        "topic_name": "PTT版上的科技業求職與職涯討論分析",
+        "members": [
+            "M144020009 劉芊妤",
+            "M144020003 莊雅筑",
+            "M144020005 胡新容",
+            "M144020018 陳孝杰"
+        ],
+        "video_url": "https://youtu.be/Lg0gFQZsG5w",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G18/finalproject_group18(1).ipynb",
+                "name": "finalproject_group18(1).ipynb"
+            },
+            {
+                "label": "ipynb2",
+                "type": "ipynb",
+                "path": "final_project/G18/finalproject_group18(2).ipynb",
+                "name": "finalproject_group18(2).ipynb"
+            },
+            {
+                "label": "ipynb3",
+                "type": "ipynb",
+                "path": "final_project/G18/finalproject_group18(3).ipynb",
+                "name": "finalproject_group18(3).ipynb"
+            }
+        ]
+    },
+    {
+        "group": 19,
+        "group_name": "第十九組",
+        "dir": "final_project/G19",
+        "topic_name": "各家銀行信用卡分析",
+        "members": [
+            "M144020015 許鈺偉",
+            "M144020045 房冠萱",
+            "M144020061 黃博章",
+            "M144020058 黃鈞浩"
+        ],
+        "video_url": "https://youtu.be/1rE_6kOFqLI?si=M8IYHQ79g-Y6fHwT",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G19/SMA_Final_19.ipynb",
+                "name": "SMA_Final_19.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 20,
+        "group_name": "第二十組",
+        "dir": "final_project/G20",
+        "topic_name": "投資人關注議題與投資觀點之文字探勘分析 ",
+        "members": [
+            "N134320004 曾敬德",
+            "N134320006 盧鳳珠",
+            "N134320012 曾曼菱",
+            "N134320017 施文華"
+        ],
+        "video_url": "https://youtu.be/YBKFHCYC0AU",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G20/社群媒體期末專案第20組.pdf",
+                "name": "社群媒體期末專案第20組.pdf"
+            }
+        ]
+    },
+    {
+        "group": 21,
+        "group_name": "第二十一組",
+        "dir": "final_project/G21",
+        "topic_name": "葬送的芙莉蓮情緒分析",
+        "members": [
+            "M144020007 詹襄珩",
+            "M144020062 郭健圻"
+        ],
+        "video_url": "https://youtu.be/a3jZVH6tDK8",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G21/final_project_g21.ipynb",
+                "name": "final_project_g21.ipynb"
+            },
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G21/葬送的芙莉蓮_情緒分析_組21.pptx.pdf",
+                "name": "葬送的芙莉蓮_情緒分析_組21.pptx.pdf"
+            }
+        ]
+    },
+    {
+        "group": 22,
+        "group_name": "第二十二組",
+        "dir": "final_project/G22",
+        "topic_name": "資安事件新聞趨勢分析",
+        "members": [
+            "N134020004 郭家茵",
+            "N124320025 蘇名峰"
+        ],
+        "video_url": "https://youtu.be/Gcph8neg9M4",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G22/社群媒體分析_期末報告_第22組.pdf",
+                "name": "社群媒體分析_期末報告_第22組.pdf"
+            }
+        ]
+    },
+    {
+        "group": 23,
+        "group_name": "第二十三組",
+        "dir": "final_project/G23",
+        "topic_name": "社群媒體中攝影技術演進之主題與時間變化分析",
+        "members": [
+            "N144020013 黃羽彤",
+            "M145040001 李玫娟"
+        ],
+        "video_url": "https://youtu.be/kEBn_281Row",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G23/社群媒體分析_期末報告_第23組(1).pdf",
+                "name": "社群媒體分析_期末報告_第23組(1).pdf"
+            }
+        ]
+    },
+    {
+        "group": 24,
+        "group_name": "第二十四組",
+        "dir": "final_project/G24",
+        "topic_name": "企業導入 AI 開發工具的公開社群分析",
+        "members": [
+            "N134020010 吳宗瑋",
+            "N134020011 林士欽"
+        ],
+        "video_url": "https://youtu.be/WkeM1kgLRI4",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G24/ai_dev_tools_social_analysis.ipynb",
+                "name": "ai_dev_tools_social_analysis.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 25,
+        "group_name": "第二十五組",
+        "dir": "final_project/G25",
+        "topic_name": "PTT對於台灣交通安全與行人路權議題的社群輿情分析",
+        "members": [
+            "M144020056 張祐豪",
+            "M144020052 張恩誠"
+        ],
+        "video_url": "https://youtu.be/zUT9uOIgles",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "final_project/G25/第25組_期末報告 (1).ipynb",
+                "name": "第25組_期末報告 (1).ipynb"
+            }
+        ]
+    },
+    {
+        "group": 26,
+        "group_name": "第二十六組",
+        "dir": "final_project/G26",
+        "topic_name": "連鎖藥局保健品的社群心智地圖: 以 Tarflow 文字探勘平台之 PTT 多版別共現網路、主題模型與深度學習綜合分",
+        "members": [
+            "N124320023 蕭瑜垚"
+        ],
+        "video_url": "https://www.youtube.com/live/Ogo7qfyE4Sw?si=kS0iCdXOmS8AO4hu",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "final_project/G26/N124320023_第26組_蕭瑜垚_期末報告_連鎖藥局保健品社群洞察.pdf",
+                "name": "N124320023_第26組_蕭瑜垚_期末報告_連鎖藥局保健品社群洞察.pdf"
+            }
+        ]
+    },
+    {
+        "group": 27,
+        "group_name": "第二十七組",
+        "dir": "final_project/G27",
+        "topic_name": "(缺繳)",
+        "members": [
+            "M126020020 萬立庠",
+            "N126020003 郭奕亨"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "txt",
+                "type": "txt",
+                "path": "final_project/G27/該組缺繳_成員如下.txt",
+                "name": "該組缺繳_成員如下.txt"
+            }
+        ]
+    }
+]

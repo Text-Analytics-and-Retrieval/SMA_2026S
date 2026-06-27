@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    
+    <title>社群媒體分析</title>
+    
+    <style>
+    nav{
+      font-family: Microsoft JhengHei;
+    }
+    h2{
+      font-family: Microsoft JhengHei;
+      text-align: center;
+    }
+    table {
+      font-family: Microsoft JhengHei, arial, sans-serif;
+      border-collapse: collapse;
+    }
+    td, th {
+      text-align: center;
+      height: 30px;
+      line-height:30px;
+    }
+
+    tr:nth-child(even) {
+      background-color: #fdfdf3;
+    }
+    tr:hover{
+      background-color: #e4e8fd;
+    }
+    .fa {
+        vertical-align: middle;
+        padding-left: 5px;
+        color: red;
+    }
+    </style>
+</head>
+<body>
+<nav>
+    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+        <a class="nav-item nav-link disabled"><b>社群媒體分析2026</b></a>
+        <a class="nav-item nav-link active" id="nav-gs1-tab" data-toggle="tab" href="#nav-gs1" role="tab" aria-controls="nav-gs1" aria-selected="true"><b>第一次讀書會</b></a>
+        <a class="nav-item nav-link" id="nav-gs2-tab" data-toggle="tab" href="#nav-gs2" role="tab" aria-controls="nav-gs2" aria-selected="true"><b>第二次讀書會</b></a>
+        <!-- <a class="nav-item nav-link" id="nav-midp-tab" data-toggle="tab" href="#nav-midp" role="tab" aria-controls="nav-midp" aria-selected="true"><b>期中報告</b></a> -->
+        <a class="nav-item nav-link" id="nav-gs3-tab" data-toggle="tab" href="#nav-gs3" role="tab" aria-controls="nav-gs3" aria-selected="true"><b>第三次讀書會</b></a>
+        <a class="nav-item nav-link" id="nav-final-tab" data-toggle="tab" href="#nav-final" role="tab" aria-controls="nav-final" aria-selected="true"><b>期末專案</b></a>
+    </div>
+</nav>
+<div class="tab-content" id="nav-tabContent">
+
+    <!-- 第一次讀書會 -->
+    <div class='tab-pane show active' id="nav-gs1" role="tabpanel" aria-labelledby="nav-gs1-tab">
+        <table class="table">
+            <thead class='thead-light'>
+                <th width="10%">組別</th>
+                <th width="40%">主題</th>
+                <th width="10%">連結</th>
+                <th width="40%">組員</th>
+            </thead>
+            <tbody id="study-group-1st-body">
+                <tr>
+                    <td colspan="4">載入中</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- 第二次讀書會 -->
+    <div class='tab-pane show' id="nav-gs2" role="tabpanel" aria-labelledby="nav-gs2-tab">
+        <table class="table">
+            <thead class='thead-light'>
+                <th width="10%">組別</th>
+                <th width="40%">主題</th>
+                <th width="10%">連結</th>
+                <th width="40%">組員</th>
+            </thead>
+            <tbody id="study-group-2nd-body">
+                <tr>
+                    <td colspan="4">載入中</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- 第三次讀書會 -->
+    <div class='tab-pane show' id="nav-gs3" role="tabpanel" aria-labelledby="nav-gs3-tab">
+        <table class="table">
+            <thead class='thead-light'>
+                <th width="10%">組別</th>
+                <th width="40%">主題</th>
+                <th width="10%">連結</th>
+                <th width="40%">組員</th>
+            </thead>
+            <tbody id="study-group-3rd-body">
+                <tr>
+                    <td colspan="4">載入中</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- 期末專案 -->
+    <div class='tab-pane show' id="nav-final" role="tabpanel" aria-labelledby="nav-final-tab">
+        <table class="table">
+            <thead class='thead-light'>
+                <th width="10%">組別</th>
+                <th width="40%">主題</th>
+                <th width="10%">連結</th>
+                <th width="40%">組員</th>
+            </thead>
+            <tbody id="final-project-body">
+                <tr>
+                    <td colspan="4">載入中</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+<script>
+    const repoBase = 'Text-Analytics-and-Retrieval/SMA_2026S';
+    const groupLabels = ['', '第一組', '第二組', '第三組', '第四組', '第五組', '第六組', '第七組', '第八組', '第九組', '第十組', '第十一組', '第十二組', '第十三組', '第十四組', '第十五組', '第十六組', '第十七組', '第十八組', '第十九組', '第二十組', '第二十一組', '第二十二組', '第二十三組', '第二十四組', '第二十五組', '第二十六組', '第二十七組'];
+
+    function escapeHtml(value) {
+        return String(value || '').replace(/[&<>"']/g, function (char) {
+            return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char];
+        });
+    }
+
+    function fileHref(file) {
+        const path = encodeURI(file.path || '');
+        if ((file.type || '').toLowerCase() === 'ipynb') {
+            return `https://nbviewer.org/github/${repoBase}/blob/main/${path}`;
+        }
+        if (['pdf', 'doc', 'docx', 'ppt', 'pptx'].includes((file.type || '').toLowerCase())) {
+            return `https://docs.google.com/viewer?url=https://github.com/${repoBase}/raw/main/${path}`;
+        }
+        return `https://github.com/${repoBase}/raw/main/${path}`;
+    }
+
+    function fileButtonClass(file) {
+        return (file.type || '').toLowerCase() === 'ipynb' ? 'btn-outline-danger' : 'btn-outline-primary';
+    }
+
+    function renderFileLinks(files) {
+        if (!files || files.length === 0) {
+            return '';
+        }
+        return files.map(function (file) {
+            return `<a href="${fileHref(file)}" target="_blank"><button type="button" class="btn ${fileButtonClass(file)} btn-sm">${escapeHtml(file.label || file.type || 'file')}</button></a>`;
+        }).join(' ');
+    }
+
+    function renderTopic(item, showVideo) {
+        const topic = escapeHtml(item.topic_name || '');
+        if (!showVideo || !item.video_url) {
+            return topic;
+        }
+        return `${topic} <a href="${escapeHtml(item.video_url)}" target="_blank"><i class="fa fa-youtube-play" style="font-size:24px"></i></a>`;
+    }
+
+    function renderRows(items, showVideo) {
+        return items.map(function (item) {
+            return `<tr><td>${escapeHtml(item.group_name || groupLabels[item.group] || '')}</td><td>${renderTopic(item, showVideo)}</td><td>${renderFileLinks(item.files)}</td><td>${escapeHtml((item.members || []).join('、'))}</td></tr>`;
+        }).join('');
+    }
+
+    function loadTable(dataUrl, bodyId, showVideo) {
+        fetch(dataUrl)
+            .then(function (response) {
+                if (!response.ok) {
+                    throw new Error(`Unable to load ${dataUrl}`);
+                }
+                return response.json();
+            })
+            .then(function (items) {
+                document.getElementById(bodyId).innerHTML = renderRows(items, showVideo);
+            })
+            .catch(function () {
+                document.getElementById(bodyId).innerHTML = '<tr><td colspan="4"></td></tr>';
+            });
+    }
+
+    loadTable('1st_study_group_data.json', 'study-group-1st-body', false);
+    loadTable('2nd_study_group_data.json', 'study-group-2nd-body', false);
+    loadTable('3rd_study_group_data.json', 'study-group-3rd-body', false);
+    loadTable('data.json', 'final-project-body', true);
+</script>
+</body>
+</html>

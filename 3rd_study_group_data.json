@@ -1,0 +1,322 @@
+[
+    {
+        "group": 1,
+        "group_name": "第一組",
+        "dir": "study_group/3rd/G1",
+        "topic_name": "新青安與擴大租屋補助兩大核心政策分析",
+        "members": [
+            "M144020021 劉淨涵",
+            "M144020056 張祐豪",
+            "M144020052 張恩誠",
+            "M144020068 陳啓恩",
+            "J144020003 李國輝",
+            "M134020047 廖經恆",
+            "M144020030 賴昱霖",
+            "M144020020 林芷庭",
+            "M144020007 詹襄秝"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/3rd/G1/第一組_讀書會project3.ipynb",
+                "name": "第一組_讀書會project3.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 2,
+        "group_name": "第二組",
+        "dir": "study_group/3rd/G2",
+        "topic_name": "星宇航空",
+        "members": [
+            "M144020036 陳柏勳",
+            "M144020066 龍健銘",
+            "M144020065 藍立衡",
+            "M144020005 胡新容",
+            "M144020015 許鉦偉",
+            "M144020018 陳孝杰",
+            "M144020003 莊雅筑",
+            "M144020009 劉芊妤"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/3rd/G2/final3.ipynb",
+                "name": "final3.ipynb"
+            },
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/3rd/G2/SMA_Project3.pdf",
+                "name": "SMA_Project3.pdf"
+            }
+        ]
+    },
+    {
+        "group": 3,
+        "group_name": "第三組",
+        "dir": "study_group/3rd/G3",
+        "topic_name": "針對PTT軍事版以及八卦版中對於美國出兵伊朗相關文章",
+        "members": [
+            "M144020058 黄鈞浩",
+            "M144020017 陳姿佑",
+            "B124020008 李怡君",
+            "M144020008 洪宏林",
+            "M144020019 顏志豪",
+            "M144020061 黃博章",
+            "M144020028 白茗仁",
+            "M144020002 吳俊廷"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/3rd/G3/project3(1).ipynb",
+                "name": "project3(1).ipynb"
+            }
+        ]
+    },
+    {
+        "group": 4,
+        "group_name": "第四組",
+        "dir": "study_group/3rd/G4",
+        "topic_name": "電影資訊分析",
+        "members": [
+            "M144020062 郭倢圻",
+            "M144020016 簡以欣",
+            "M144020004 黃于庭",
+            "M144020053 滕冠廷",
+            "M144020071 蔡佳靜",
+            "M144020045 房冠葦",
+            "M144020047 程善妮",
+            "M144020014 周宥呈"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/3rd/G4/第四組專案三.ipynb",
+                "name": "第四組專案三.ipynb"
+            },
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/3rd/G4/第四組_專案三.pdf",
+                "name": "第四組_專案三.pdf"
+            }
+        ]
+    },
+    {
+        "group": 5,
+        "group_name": "第五組",
+        "dir": "study_group/3rd/G5",
+        "topic_name": "分析PTT國泰Cube信用卡相關文章",
+        "members": [
+            "N134020010 吳宗璋",
+            "N134320023 黃可欣",
+            "M134111072 朱詠綺",
+            "N134020001 李宗穎",
+            "M136090006 朱益民",
+            "M144610010 楊予彤",
+            "N134320004 曾敬德"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/3rd/G5/518 社群媒體分析第三次專案報告.pdf",
+                "name": "518 社群媒體分析第三次專案報告.pdf"
+            }
+        ]
+    },
+    {
+        "group": 6,
+        "group_name": "第六組",
+        "dir": "study_group/3rd/G6",
+        "topic_name": "油價相關新聞",
+        "members": [
+            "N134320021 謝孟庭",
+            "N134320012 曾曼菱",
+            "N124320003 馬永恩",
+            "N134320014 黃致崴",
+            "N134020007 林妤綺",
+            "N124320025 蘇名峰",
+            "N134020004 郭家茵"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/3rd/G6/專案三_第六組(1).pdf",
+                "name": "專案三_第六組(1).pdf"
+            }
+        ]
+    },
+    {
+        "group": 7,
+        "group_name": "第七組",
+        "dir": "study_group/3rd/G7",
+        "topic_name": "ESG新聞報導結構與主題分類模型分析",
+        "members": [
+            "M134111038 吳悠綺",
+            "N134320018 許季盈",
+            "N134320017 施文華",
+            "M134610025 謝青杉",
+            "N124320023 蕭瑜垚",
+            "N134320031 劉彥伯",
+            "N134320011 劉宗泰"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/3rd/G7/社群媒體分析專案三_G7.pdf",
+                "name": "社群媒體分析專案三_G7.pdf"
+            }
+        ]
+    },
+    {
+        "group": 8,
+        "group_name": "第八組",
+        "dir": "study_group/3rd/G8",
+        "topic_name": "從文字資料分析寵物飼主最關心的五大問題(以貓、狗、兔、天竺鼠為例)",
+        "members": [
+            "M126020020 萬立庠",
+            "N134320026 黃足寧",
+            "1141060006 蔣臻陽",
+            "B126060003 吳瑀芯",
+            "N134320019 黃彥博",
+            "N134020002 陳昱璇",
+            "N126020003 郭奕亨"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/3rd/G8/第八組第三次讀書會專案報告.pdf",
+                "name": "第八組第三次讀書會專案報告.pdf"
+            }
+        ]
+    },
+    {
+        "group": 9,
+        "group_name": "第九組",
+        "dir": "study_group/3rd/G9",
+        "topic_name": "以PTT討論資料 分析NVIDIA在AI熱潮中的認知差異：比較 Gossiping 與 Stock 看板之主題與情緒",
+        "members": [
+            "N134020006 陳信宏",
+            "N134320016 盧柔樺",
+            "N134320013 鍾宛樺",
+            "N134020009 黎書宏",
+            "N134020003 楊凱傑",
+            "N134320008 郭羽庭",
+            "N134320005 張智絢",
+            "N134320024 林曉君",
+            "N134320029 周書緯"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/3rd/G9/Group9_study_3(1).ipynb",
+                "name": "Group9_study_3(1).ipynb"
+            }
+        ]
+    },
+    {
+        "group": 10,
+        "group_name": "第十組",
+        "dir": "study_group/3rd/G10",
+        "topic_name": "WBC 中華隊賽事 PTT 留言分析為資料來源",
+        "members": [
+            "N134020011 林士欽",
+            "N134020005 陳彥廷",
+            "N134320001 史卯郁"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/3rd/G10/第10組_社媒第三次讀書會.ipynb",
+                "name": "第10組_社媒第三次讀書會.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 11,
+        "group_name": "第十一組",
+        "dir": "study_group/3rd/G11",
+        "topic_name": "那些讓女孩難過的事情",
+        "members": [
+            "N124320015 林佩蓉",
+            "N134320027 邱展業",
+            "N134320003 顏暖真",
+            "N134320020 葉倩妏",
+            "N134320025 劉芝芸",
+            "N134320022 翁瑞琳",
+            "N134320032 黃瀞儀"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/3rd/G11/第11組-第三次讀書會(Sentence embedding).ipynb",
+                "name": "第11組-第三次讀書會(Sentence embedding).ipynb"
+            },
+            {
+                "label": "ipynb2",
+                "type": "ipynb",
+                "path": "study_group/3rd/G11/第11組-第三次讀書會(word2vec).ipynb",
+                "name": "第11組-第三次讀書會(word2vec).ipynb"
+            },
+            {
+                "label": "ipynb3",
+                "type": "ipynb",
+                "path": "study_group/3rd/G11/第11組-第三次讀書會_BERT.ipynb",
+                "name": "第11組-第三次讀書會_BERT.ipynb"
+            },
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/3rd/G11/社群媒體分析_第三次讀書會_第11組.pdf",
+                "name": "社群媒體分析_第三次讀書會_第11組.pdf"
+            }
+        ]
+    },
+    {
+        "group": 12,
+        "group_name": "第十二組",
+        "dir": "study_group/3rd/G12",
+        "topic_name": "新青安政策分析",
+        "members": [
+            "N144020013 黃羽彤",
+            "N134320006 盧鳳珠",
+            "N134320010 陳葳",
+            "N134020008 林姝婷",
+            "M145040001 李玟娟",
+            "N124320002 林永森"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/3rd/G12/TextMining_Group12(1).ipynb",
+                "name": "TextMining_Group12(1).ipynb"
+            }
+        ]
+    }
+]

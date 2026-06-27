@@ -1,0 +1,304 @@
+[
+    {
+        "group": 1,
+        "group_name": "第一組",
+        "dir": "study_group/2nd/G1",
+        "topic_name": "PPT ETF 輿情分析",
+        "members": [
+            "M144020021 劉淨涵",
+            "M144020056 張祐豪",
+            "M144020052 張恩誠",
+            "M144020068 陳啓恩",
+            "J144020003 李國輝",
+            "M134020047 廖經恆",
+            "M144020030 賴昱霖",
+            "M144020020 林芷庭",
+            "M144020007 詹襄秝"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/2nd/G1/第一組_第二次讀書會專案.ipynb",
+                "name": "第一組_第二次讀書會專案.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 2,
+        "group_name": "第二組",
+        "dir": "study_group/2nd/G2",
+        "topic_name": "對 PTT 星宇航空相關文章進行情緒分析 & 飯店評論分析",
+        "members": [
+            "M144020036 陳柏勳",
+            "M144020066 龍健銘",
+            "M144020065 藍立衡",
+            "M144020005 胡新容",
+            "M144020015 許鉦偉",
+            "M144020018 陳孝杰",
+            "M144020003 莊雅筑",
+            "M144020009 劉芊妤"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/2nd/G2/sma-group2-project2.ipynb",
+                "name": "sma-group2-project2.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 3,
+        "group_name": "第三組",
+        "dir": "study_group/2nd/G3",
+        "topic_name": "針對PTT軍事版以及八卦版中對於美國出兵伊朗相關文章- 文辭與文件分析、文件分類與主題模型分析",
+        "members": [
+            "M144020058 黄鈞浩",
+            "M144020017 陳姿佑",
+            "B124020008 李怡君",
+            "M144020008 洪宏林",
+            "M144020019 顏志豪",
+            "M144020061 黃博章",
+            "M144020028 白茗仁",
+            "M144020002 吳俊廷"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/2nd/G3/group3_project2.ipynb",
+                "name": "group3_project2.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 4,
+        "group_name": "第四組",
+        "dir": "study_group/2nd/G4",
+        "topic_name": "電影資訊分析",
+        "members": [
+            "M144020062 郭倢圻",
+            "M144020016 簡以欣",
+            "M144020004 黃于庭",
+            "M144020053 滕冠廷",
+            "M144020071 蔡佳靜",
+            "M144020045 房冠葦",
+            "M144020047 程善妮",
+            "M144020014 周宥呈"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/2nd/G4/專案二_電影資訊分析_第四組.ipynb",
+                "name": "專案二_電影資訊分析_第四組.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 5,
+        "group_name": "第五組",
+        "dir": "study_group/2nd/G5",
+        "topic_name": "分析PTT國泰Cube信用卡相關文章之詞彙關係",
+        "members": [
+            "N134020010 吳宗璋",
+            "N134320023 黃可欣",
+            "M134111072 朱詠綺",
+            "N134020001 李宗穎",
+            "M136090006 朱益民",
+            "M144610010 楊予彤",
+            "N134320004 曾敬德"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/2nd/G5/第五組_社群媒體分析第二次專案報告(1).pdf",
+                "name": "第五組_社群媒體分析第二次專案報告(1).pdf"
+            }
+        ]
+    },
+    {
+        "group": 6,
+        "group_name": "第六組",
+        "dir": "study_group/2nd/G6",
+        "topic_name": "油價相關新聞主題分析與詞彙關係",
+        "members": [
+            "N134320021 謝孟庭",
+            "N134320012 曾曼菱",
+            "N124320003 馬永恩",
+            "N134320014 黃致崴",
+            "N134020007 林妤綺",
+            "N124320025 蘇名峰",
+            "N134020004 郭家茵"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/2nd/G6/社群媒體分析_第六組_專案二.pdf",
+                "name": "社群媒體分析_第六組_專案二.pdf"
+            }
+        ]
+    },
+    {
+        "group": 7,
+        "group_name": "第七組",
+        "dir": "study_group/2nd/G7",
+        "topic_name": "ESG新聞報導結構與分類模型之文字探勘分析",
+        "members": [
+            "M134111038 吳悠綺",
+            "N134320018 許季盈",
+            "N134320017 施文華",
+            "M134610025 謝青杉",
+            "N124320023 蕭瑜垚",
+            "N134320031 劉彥伯",
+            "N134320011 劉宗泰"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/2nd/G7/第七組社群媒體分析讀書會第二次報告.pdf",
+                "name": "第七組社群媒體分析讀書會第二次報告.pdf"
+            }
+        ]
+    },
+    {
+        "group": 8,
+        "group_name": "第八組",
+        "dir": "study_group/2nd/G8",
+        "topic_name": "日本二線城市討論度探討",
+        "members": [
+            "M126020020 萬立庠",
+            "N134320026 黃足寧",
+            "1141060006 蔣臻陽",
+            "B126060003 吳瑀芯",
+            "N134320019 黃彥博",
+            "N134020002 陳昱璇",
+            "N126020003 郭奕亨"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/2nd/G8/第八組第二次讀書會專案報告.pdf",
+                "name": "第八組第二次讀書會專案報告.pdf"
+            }
+        ]
+    },
+    {
+        "group": 9,
+        "group_name": "第九組",
+        "dir": "study_group/2nd/G9",
+        "topic_name": "BBC對美伊衝突的報導中，主要關注的議題面向為何?",
+        "members": [
+            "N134020006 陳信宏",
+            "N134320016 盧柔樺",
+            "N134320013 鍾宛樺",
+            "N134020009 黎書宏",
+            "N134020003 楊凱傑",
+            "N134320008 郭羽庭",
+            "N134320005 張智絢",
+            "N134320024 林曉君",
+            "N134320029 周書緯"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/2nd/G9/Group9_study_2.ipynb",
+                "name": "Group9_study_2.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 10,
+        "group_name": "第十組",
+        "dir": "study_group/2nd/G10",
+        "topic_name": "WBC 中華隊賽事 PTT 留言情緒研究",
+        "members": [
+            "N134020011 林士欽",
+            "N134020005 陳彥廷",
+            "N134320001 史卯郁"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/2nd/G10/社媒第二次讀書會.ipynb",
+                "name": "社媒第二次讀書會.ipynb"
+            }
+        ]
+    },
+    {
+        "group": 11,
+        "group_name": "第十一組",
+        "dir": "study_group/2nd/G11",
+        "topic_name": "那些女孩難過的事",
+        "members": [
+            "N124320015 林佩蓉",
+            "N134320027 邱展業",
+            "N134320003 顏暖真",
+            "N134320020 葉倩妏",
+            "N134320025 劉芝芸",
+            "N134320022 翁瑞琳",
+            "N134320032 黃瀞儀"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/2nd/G11/社群媒體分析_第二次讀書會_第11組0428.ipynb",
+                "name": "社群媒體分析_第二次讀書會_第11組0428.ipynb"
+            },
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/2nd/G11/社群媒體分析_第二次讀書會_第11組0428.pdf",
+                "name": "社群媒體分析_第二次讀書會_第11組0428.pdf"
+            }
+        ]
+    },
+    {
+        "group": 12,
+        "group_name": "第十二組",
+        "dir": "study_group/2nd/G12",
+        "topic_name": "新青安留言的房股板分類與主題模型",
+        "members": [
+            "N144020013 黃羽彤",
+            "N134320006 盧鳳珠",
+            "N134320010 陳葳",
+            "N134020008 林姝婷",
+            "M145040001 李玟娟",
+            "N124320002 林永森"
+        ],
+        "video_url": "",
+        "files": [
+            {
+                "label": "ipynb",
+                "type": "ipynb",
+                "path": "study_group/2nd/G12/第12組_新青安留言的房股板分類與主題模型.ipynb",
+                "name": "第12組_新青安留言的房股板分類與主題模型.ipynb"
+            },
+            {
+                "label": "pdf",
+                "type": "pdf",
+                "path": "study_group/2nd/G12/第二次讀書會報告.pdf",
+                "name": "第二次讀書會報告.pdf"
+            }
+        ]
+    }
+]
